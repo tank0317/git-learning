@@ -17,6 +17,10 @@ Notes for git.
 
 1. [选择修订版本，储藏][6]
 
+## 内部原理
+
+1. [Git 是如何做版本控制的][7]
+
 
   [1]: https://git-scm.com/docs
   [2]: https://git-scm.com/book/zh/v2
@@ -24,3 +28,4 @@ Notes for git.
   [4]: https://github.com/tank0317/git-learning/issues/3
   [5]: https://github.com/tank0317/git-learning/issues/4
   [6]: https://github.com/tank0317/git-learning/issues/1
+  [7]: https://github.com/tank0317/git-learning/issues/5
